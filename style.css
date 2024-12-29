@@ -1,0 +1,51 @@
+body {
+    background: #262626;
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+}
+
+button {
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgb(115, 0, 255);
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    transition: 0.20s;
+    margin-left: 10px;
+}
+
+button:hover {
+    background-color: rgb(93, 0, 207);
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.back {
+    position: fixed;
+    left: 0
+}
+
+.source {
+    position: fixed;
+    right: 0
+}
+
+img {
+    border-radius: 5px;
+}
+
+.gdsher-lox {
+    color: red;
+    font-size: 5px;
+}
