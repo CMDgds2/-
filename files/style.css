@@ -2,6 +2,7 @@ body {
     background: #262626;
     display: flex;
     justify-content: center;
+    font-family: Arial;
 }
 
 button {
@@ -38,4 +39,13 @@ p {
 .source {
     position: fixed;
     right: 0
+}
+
+img {
+    border-radius: 5px;
+}
+
+.gdsher-lox {
+    color: red;
+    font-size: 5px;
 }
