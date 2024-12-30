@@ -38,14 +38,13 @@ p {
 
 .source {
     position: fixed;
-    right: 0
+    right: 0;
+    background-color: rgb(49, 0, 109);
 }
 
+.source:hover {
+    background-color: rgb(21, 0, 48);
+}
 img {
     border-radius: 5px;
-}
-
-.gdsher-lox {
-    color: red;
-    font-size: 5px;
 }
